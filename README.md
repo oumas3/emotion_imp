@@ -68,4 +68,3 @@ The fine-tuned model improves semantic fidelity while significantly enhancing em
 
 ---
 
-## Repository Structure
