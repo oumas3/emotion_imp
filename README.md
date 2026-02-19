@@ -2,7 +2,7 @@
 
 📄 **Full Paper Detail**
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Emotion_Impact_Aware_Summarization.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Emotion_impact_summarization.pdf)
 [![Model](https://img.shields.io/badge/Model-T5--Base-blue)]
 [![Dataset](https://img.shields.io/badge/Dataset-TweetSum-green)]
 [![Framework](https://img.shields.io/badge/Framework-HuggingFace-orange)]
